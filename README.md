@@ -1,5 +1,6 @@
 # 💫 About Me:
-- 👋 Hi, I’m chirag, <br>- 👀 I’m interested in android development, software development,cyber security and 3D simulation.<br>- 🌱 I’m currently learning java, kotlin, c++, sql, php, mission planner, gazebo and other prime technologies.<br>- 💞️ I’m new to open source community and constantly trying to learn new things<br>- 📫 You can contact me through my Linkedin profile https://www.linkedin.com/in/chirag-yadav-645995229/
+- 👋 Hi, I’m chirag, <br>- 👀 I’m interested in android development, software development,cyber security and 3D simulation.<br>- 🌱 I’m currently learning java, kotlin, c++, sql, php, mission planner, gazebo and other prime technologies.<br>- 💞️ I’m new to open source community and constantly trying to learn new things<br>- 📫 [linkedin](https://user-images.githubusercontent.com/100476437/209345137-19235ecc-463c-4c35-9f69-e979f1fd25a1.png)
+
 
 
 # 💻 Tech Stack:
